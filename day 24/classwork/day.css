@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+p {
+    color: blanchedalmond;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 500;
+    display: inline;
+    font-family: Anton;
+    font-size: 20px;
+}
+html{
+    background-color:chocolate;
+}
